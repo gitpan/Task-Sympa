@@ -4,7 +4,7 @@
       "unknown"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.140640",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.141170",
    "license" : [
       "gpl_2"
    ],
@@ -35,7 +35,7 @@
             "Archive::Zip" : "1.05",
             "CGI" : "3.51",
             "DBI" : "1.48",
-            "DB_FILE" : "1.75",
+            "DB_File" : "1.75",
             "Digest::MD5" : "2.00",
             "Encode" : "0",
             "File::Copy::Recursive" : "0.36",
@@ -62,5 +62,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.00"
+   "version" : "1.01"
 }
